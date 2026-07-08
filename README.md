@@ -1,5 +1,7 @@
 ## Hi there 👋
 Embracing agentic orchestration & being AI native
+My [portfolio](https://sebhkx.github.io/)
+Incorporating [sebtechdocs](https://github.com/sebtechdocs)
 <!--
 **sebastianhkx/sebastianhkx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
